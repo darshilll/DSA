@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/darshilll/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/darshilll/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/darshilll/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/darshilll/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/darshilll/DSA/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -37,19 +38,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darshilll/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/darshilll/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/darshilll/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/darshilll/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/darshilll/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/darshilll/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/darshilll/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/darshilll/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/darshilll/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/darshilll/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/darshilll/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/darshilll/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/darshilll/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
