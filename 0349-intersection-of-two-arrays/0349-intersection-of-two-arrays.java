@@ -12,8 +12,8 @@ class Solution {
                 i++;
             } else if (nums1[i] > nums2[j]) {
                 j++;
-            } else { // nums1[i] == nums2[j]
-                if (ans.isEmpty() || ans.get(ans.size() - 1) != nums1[i]) { // Avoid duplicates
+            } else { 
+                if (ans.isEmpty() || ans.get(ans.size() - 1) != nums1[i]) { 
                     ans.add(nums1[i]);
                 }
                 i++;
@@ -21,7 +21,6 @@ class Solution {
             }
         }
 
-        // Convert ArrayList to int[] before returning
         int[] result = new int[ans.size()];
         for (int k = 0; k < ans.size(); k++) {
             result[k] = ans.get(k);
