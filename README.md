@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/darshilll/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/darshilll/DSA/tree/master/0485-max-consecutive-ones) |
 | [1477-product-of-the-last-k-numbers](https://github.com/darshilll/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/darshilll/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/darshilll/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/darshilll/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
@@ -114,5 +115,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/darshilll/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/darshilll/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
