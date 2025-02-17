@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/darshilll/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/darshilll/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/darshilll/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/darshilll/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/darshilll/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/darshilll/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/darshilll/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/darshilll/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/darshilll/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/darshilll/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/darshilll/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Design
 |  |
