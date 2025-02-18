@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/darshilll/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/darshilll/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/darshilll/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/darshilll/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/darshilll/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/darshilll/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshilll/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/darshilll/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/darshilll/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/darshilll/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/darshilll/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/darshilll/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/darshilll/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/darshilll/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/darshilll/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/darshilll/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
